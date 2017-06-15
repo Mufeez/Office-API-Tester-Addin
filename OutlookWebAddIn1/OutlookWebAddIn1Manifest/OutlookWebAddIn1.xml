@@ -188,9 +188,9 @@
         <bt:Url id="functionFile" DefaultValue="https://outlookadd-intest.azurewebsites.net/Functions/FunctionFile.html"/>
         <!--<bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/MessageRead.html"/>-->
         <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerMessageRead.html"/>
-        <bt:Url id="messageComposeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerMessageCompose.html"/>
-        <bt:Url id="apponitmentOrganizeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerAppointmentOrganizer.html"/>
-        <bt:Url id="apponitmentAttendeeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/MessageRead.html"/>
+        <bt:Url id="messageComposeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerMessageRead.html"/>
+        <bt:Url id="apponitmentOrganizeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerMessageRead.html"/>
+        <bt:Url id="apponitmentAttendeeTaskPaneUrl" DefaultValue="https://outlookadd-intest.azurewebsites.net/Test/SpecRunnerMessageRead.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="My Add-in Group"/>
